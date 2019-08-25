@@ -67,15 +67,15 @@ public class DataProcessor {
 			}
 
 		} catch (Exception e) {
-			e.getMessage();
-			/*if (e instanceof NullPointerException) {
+			//e.getMessage();
+			if (e instanceof NullPointerException) {
 				NullPointerException npe = (NullPointerException) e;
 				System.out.println(npe);
 				System.out.println(this);
 				System.out.println();
 			} else {
 				e.printStackTrace();
-			}*/
+			}
 		}
 
 	}

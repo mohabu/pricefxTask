@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc18ad4e-227e-4fcd-9c2c-143632eae8ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cz/pricefx/DataProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cz/pricefx/DataProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessorTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +28,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="468" />
+          <entry key="JAVA" value="470" />
         </counts>
       </usages-collector>
     </session>
@@ -45,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+            <state relative-caret-position="257">
+              <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,8 +50,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+            <state relative-caret-position="504">
+              <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
               <folding>
                 <element signature="e#2787#2788#0" expanded="true" />
                 <element signature="e#2807#2808#0" expanded="true" />
@@ -97,8 +90,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" />
         <option value="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" />
       </list>
     </option>
   </component>
@@ -209,7 +202,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566746866604" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566747399713" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -366,7 +359,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27345416" />
@@ -417,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+        <state relative-caret-position="504">
+          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
           <folding>
             <element signature="e#2787#2788#0" expanded="true" />
             <element signature="e#2807#2808#0" expanded="true" />
@@ -432,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+        <state relative-caret-position="257">
+          <caret line="90" column="16" selection-start-line="90" selection-start-column="16" selection-end-line="90" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

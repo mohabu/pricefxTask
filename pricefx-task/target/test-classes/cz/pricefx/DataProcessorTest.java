@@ -103,11 +103,6 @@ class DataProcessorTest {
 		}catch(NullPointerException ex){
 			ex.getMessage();
 		}
-
-
-		//assertFalse(expected.equals(actual));
-
-
 	}
 
 
