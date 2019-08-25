@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc18ad4e-227e-4fcd-9c2c-143632eae8ba" name="Default Changelist" comment="" />
+    <list default="true" id="dc18ad4e-227e-4fcd-9c2c-143632eae8ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cz/pricefx/DataProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cz/pricefx/DataProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cz/pricefx/DataProcessorTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +24,8 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -25,18 +35,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="424" />
+          <entry key="JAVA" value="468" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state relative-caret-position="481">
+              <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,13 +54,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="156" column="1" lean-forward="true" selection-start-line="156" selection-start-column="1" selection-end-line="156" selection-end-column="1" />
+            <state relative-caret-position="472">
+              <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
               <folding>
-                <element signature="e#432#448#0" expanded="true" />
                 <element signature="e#2787#2788#0" expanded="true" />
                 <element signature="e#2807#2808#0" expanded="true" />
                 <element signature="e#3249#3250#0" expanded="true" />
@@ -66,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataSource.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -75,18 +84,21 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" />
       </list>
     </option>
   </component>
@@ -96,11 +108,13 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -191,12 +205,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566578261986" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566746866604" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -214,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DataProcessorTest.test1CheckSample">
+  <component name="RunManager" selected="JUnit.DataProcessorTest.test6CheckSample">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cz.pricefx.Demo" />
       <module name="tracking-store" />
@@ -299,10 +312,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DataProcessorTest.test6CheckSample" />
         <item itemvalue="JUnit.DataProcessorTest.test1CheckSample" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="JUnit.DataProcessorTest" />
-        <item itemvalue="JUnit.DataProcessorTest.test6CheckSample" />
         <item itemvalue="JUnit.DataProcessorTest.test7CheckSample" />
       </list>
     </recent_temporary>
@@ -321,27 +334,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 17h 58m 17s.xml">
-      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 17h 58m 49s.xml">
-      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 17h 59m 13s.xml">
-      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 00m 02s.xml">
-      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 00m 32s.xml">
-      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 00m 58s.xml">
-      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 01m 56s.xml">
-      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 02m 30s.xml">
       <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
     </history-entry>
@@ -351,79 +343,99 @@
     <history-entry file="DataProcessorTest_test1CheckSample - 2019.08.23 at 18h 06m 29s.xml">
       <configuration name="DataProcessorTest.test1CheckSample" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.25 at 17h 07m 47s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.25 at 17h 09m 09s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.25 at 17h 10m 24s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.25 at 17h 18m 13s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.25 at 17h 20m 38s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.25 at 17h 21m 37s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.25 at 17h 22m 11s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2707889" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27345416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.21235102" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25568798" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25568798" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.21235102" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataSource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
-          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="352">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="156" column="1" lean-forward="true" selection-start-line="156" selection-start-column="1" selection-end-line="156" selection-end-column="1" />
+        <state relative-caret-position="472">
+          <caret line="69" column="27" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
           <folding>
-            <element signature="e#432#448#0" expanded="true" />
             <element signature="e#2787#2788#0" expanded="true" />
             <element signature="e#2807#2808#0" expanded="true" />
             <element signature="e#3249#3250#0" expanded="true" />
             <element signature="e#3266#3267#0" expanded="true" />
             <element signature="e#3529#3530#0" expanded="true" />
             <element signature="e#3548#3549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="104" column="9" selection-start-line="104" selection-start-column="9" selection-end-line="104" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

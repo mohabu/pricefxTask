@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc18ad4e-227e-4fcd-9c2c-143632eae8ba" name="Default Changelist" comment="" />
+    <list default="true" id="dc18ad4e-227e-4fcd-9c2c-143632eae8ba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,44 +16,85 @@
     <session id="-99354979">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="426" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="616">
+              <caret line="95" column="10" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
               <folding>
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            <state relative-caret-position="616">
+              <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+              <folding>
+                <element signature="e#2787#2788#0" expanded="true" />
+                <element signature="e#2807#2808#0" expanded="true" />
+                <element signature="e#3249#3250#0" expanded="true" />
+                <element signature="e#3266#3267#0" expanded="true" />
+                <element signature="e#3529#3530#0" expanded="true" />
+                <element signature="e#3548#3549#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="367" />
@@ -58,11 +102,13 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -70,16 +116,94 @@
               <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pricefx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="tracking-store" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="tracking-store" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="cz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="pricefx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566569502865" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566578261986" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -97,7 +221,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DataProcessorTest.testSetData">
+  <component name="RunManager" selected="JUnit.DataProcessorTest.test6CheckSample">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.pricefx.Demo" />
+      <module name="tracking-store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.pricefx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DataProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tracking-store" />
       <extension name="coverage">
@@ -112,7 +249,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataProcessorTest.testSetData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DataProcessorTest.test1CheckSample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tracking-store" />
       <extension name="coverage">
         <pattern>
@@ -122,20 +259,58 @@
       </extension>
       <option name="PACKAGE_NAME" value="cz.pricefx" />
       <option name="MAIN_CLASS_NAME" value="cz.pricefx.DataProcessorTest" />
-      <option name="METHOD_NAME" value="testSetData" />
+      <option name="METHOD_NAME" value="test1CheckSample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProcessorTest.test6CheckSample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tracking-store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.pricefx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.pricefx" />
+      <option name="MAIN_CLASS_NAME" value="cz.pricefx.DataProcessorTest" />
+      <option name="METHOD_NAME" value="test6CheckSample" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProcessorTest.test7CheckSample" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tracking-store" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.pricefx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.pricefx" />
+      <option name="MAIN_CLASS_NAME" value="cz.pricefx.DataProcessorTest" />
+      <option name="METHOD_NAME" value="test7CheckSample" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.DataProcessorTest.test6CheckSample" />
+      <item itemvalue="JUnit.DataProcessorTest.test7CheckSample" />
       <item itemvalue="JUnit.DataProcessorTest" />
-      <item itemvalue="JUnit.DataProcessorTest.testSetData" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="JUnit.DataProcessorTest.test1CheckSample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.DataProcessorTest.testSetData" />
+        <item itemvalue="JUnit.DataProcessorTest.test6CheckSample" />
+        <item itemvalue="JUnit.DataProcessorTest.test1CheckSample" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="JUnit.DataProcessorTest" />
+        <item itemvalue="JUnit.DataProcessorTest.test7CheckSample" />
       </list>
     </recent_temporary>
   </component>
@@ -153,75 +328,190 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataProcessorTest - 2019.08.23 at 16h 01m 38s.xml">
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 17h 58m 17s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 17h 58m 49s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 17h 59m 13s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 00m 02s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 00m 32s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 00m 58s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 01m 56s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest_test6CheckSample - 2019.08.23 at 18h 02m 30s.xml">
+      <configuration name="DataProcessorTest.test6CheckSample" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataProcessorTest - 2019.08.23 at 18h 03m 33s.xml">
       <configuration name="DataProcessorTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DataProcessorTest - 2019.08.23 at 16h 02m 06s.xml">
-      <configuration name="DataProcessorTest" configurationId="JUnit" />
+    <history-entry file="DataProcessorTest_test1CheckSample - 2019.08.23 at 18h 06m 29s.xml">
+      <configuration name="DataProcessorTest.test1CheckSample" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27345416" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25568798" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.21235102" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="224">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cz/pricefx/DataProcessor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        <state relative-caret-position="616">
+          <caret line="69" column="32" selection-start-line="69" selection-start-column="32" selection-end-line="69" selection-end-column="32" />
+          <folding>
+            <element signature="e#2787#2788#0" expanded="true" />
+            <element signature="e#2807#2808#0" expanded="true" />
+            <element signature="e#3249#3250#0" expanded="true" />
+            <element signature="e#3266#3267#0" expanded="true" />
+            <element signature="e#3529#3530#0" expanded="true" />
+            <element signature="e#3548#3549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/cz/pricefx/DataProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="95" column="10" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>tracking-store</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
